@@ -39,7 +39,7 @@ The best I could think of dotfiles.
 * curl
 
 ```sh
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/iokira/dotfiles/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/NaokiMizuta5/dotfiles/main/install.sh)"
 ```
 
 ## Inspiration
